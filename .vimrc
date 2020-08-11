@@ -8,6 +8,8 @@ set encoding=utf8
 " Visual stuff
 " colorscheme scheakur
 colorscheme mojave
+" colorscheme mayansmoke
+" colorscheme pyte
 set number              " Set line number
 set numberwidth=5
 set cursorline          " highlight current line
